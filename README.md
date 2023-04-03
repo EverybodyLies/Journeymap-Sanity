@@ -1,2 +1,2 @@
 # Journeymap Sanity
-Fix for missing mob radar icons from non-vanilla entities.
+Fix for missing radar icons from non-vanilla mobs.
