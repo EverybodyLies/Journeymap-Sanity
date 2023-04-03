@@ -1,2 +1,2 @@
 # Journeymap Sanity
-Fix for missing mob radar icons + custom theme.
+Fix for missing mob radar icons.
